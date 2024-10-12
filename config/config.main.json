@@ -16,12 +16,12 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100087212564100"
+        "100078063083482"
     ],
     "ABSOLUTES": [
-        ""
+        "100078063083482"
     ],
-    "NAME": "chilli bot",
+    "NAME": "admins private bot",
     "PREFIX": "!",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
